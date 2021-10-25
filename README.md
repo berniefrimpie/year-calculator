@@ -8,9 +8,8 @@ $ npm i age-calculator
 # Usage
 ```js
 const howManyYears = require(age-calculator);
-```
 console.log(howManyYears(2021, 1992)); // prints 29
-
+```
 # License
 
 MIT License
