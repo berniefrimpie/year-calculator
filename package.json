@@ -1,0 +1,27 @@
+{
+  "name": "year-calculator",
+  "version": "1.0.0",
+  "description": "A function that takes the years and calculate the difference between them.",
+  "main": "index.js",
+   "scripts": {
+    "start": "node index.js",
+    "test": "jest",
+    "test-coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berniefrimpie/year-calculator.git"
+  },
+  "keywords": [
+    "Math"
+  ],
+  "author": "Bernard Frimpong <bernie.frimpie@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berniefrimpie/year-calculator/issues"
+  },
+  "homepage": "https://github.com/berniefrimpie/year-calculator#readme",
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
+}
