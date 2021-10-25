@@ -3,11 +3,11 @@ A simple function that takes the years and calculate the difference between them
 
 # Instalation
 ```sh
-$ npm i age-calculator
+$ npm i year-calculator
 ```
 # Usage
 ```js
-const howManyYears = require(age-calculator);
+const howManyYears = require(year-calculator);
 console.log(howManyYears(2021, 1992)); // prints 29
 ```
 # License
