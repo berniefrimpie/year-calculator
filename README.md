@@ -1,4 +1,4 @@
-# Age-calculator
+# Year-calculator
 A simple function that takes the years and calculate the difference between them.
 
 # Instalation
