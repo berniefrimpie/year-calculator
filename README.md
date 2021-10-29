@@ -7,7 +7,7 @@ $ npm i year-calculator
 ```
 # Usage
 ```js
-const howManyYears = require(year-calculator);
+const howManyYears = require("year-calculator");
 console.log(howManyYears(2021, 1992)); // prints 29
 ```
 # License
